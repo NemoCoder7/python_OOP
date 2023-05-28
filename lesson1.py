@@ -1,1 +1,2 @@
-1 + 2 print(None)
+print("Just learning git")
+print(None)
