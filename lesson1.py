@@ -1,1 +1,1 @@
-print(None)
+1 + 2 print(None)
